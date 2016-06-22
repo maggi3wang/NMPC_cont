@@ -1,0 +1,7 @@
+Disturbed, w = 0.1, Allgower Steady state: [0.03891, 0.01437]
+w = 0.1, B_w = [1;1], Steady state: [0.09225, 0.01214]
+Mayne: [0;1]: [0.072, 0.034] 
+
+Disturbed, w = 0.1, Contraction Steady state: [0.02576, 0.006689]
+w = 0.1, B_w = [1;1], Steady state: [0.04376, -0.01614]
+w = 0.2*cos(), B_w = [0;1], amp: [0.01167 , 0.02036]
