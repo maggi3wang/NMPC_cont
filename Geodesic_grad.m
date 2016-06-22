@@ -19,7 +19,6 @@ for k = 1:K+1 %0 ---> K
     for i = 1:n
         GradObj = GradObj+...
            -(1/2)*w(k)*(M_xdot'*W_dx{i}*M_xdot)*kron(I(:,i),T(:,k));
-%                     [T(:,k);zeros((n-1)*(N+1),1)];
     end
 end
 
